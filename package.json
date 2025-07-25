@@ -1,0 +1,25 @@
+{
+  "name": "beecrowd_judge",
+  "version": "1.0.0",
+  "main": "1008.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipebomfim/beecrowd_judge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipebomfim/beecrowd_judge/issues"
+  },
+  "homepage": "https://github.com/felipebomfim/beecrowd_judge#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
